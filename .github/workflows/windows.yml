@@ -1,4 +1,4 @@
-name: Build App Packages
+name: 构建window应用
 
 on: workflow_dispatch
 
